@@ -8,6 +8,8 @@
 
 [.. XX Network](https://github.com/ryssroad/xx-network/tree/9d26f92743bcd9f35102d5abccd161525e6bbac6)
 
+[5ire](https://github.com/SNSMLN/5ire-full-node-systemd)
+
 ### tools
 [. Planq tools](https://github.com/systemd-run/manuals/tree/main/planq)
 
